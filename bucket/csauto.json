@@ -17,8 +17,8 @@
     "checkver": {
         "github": "https://github.com/MurkyYT/CSAuto"
     },
-    "url": "https://github.com/MurkyYT/CSAuto/releases/download/v2.0.6/CSAuto_Portable.zip",
+    "url": "https://github.com/MurkyYT/CSAuto/releases/download/2.0.6/CSAuto_Portable.zip",
     "autoupdate": {
-        "url": "https://github.com/MurkyYT/CSAuto/releases/download/v$version/CSAuto_Portable.zip"
+        "url": "https://github.com/MurkyYT/CSAuto/releases/download/$version/CSAuto_Portable.zip"
     }
 }
